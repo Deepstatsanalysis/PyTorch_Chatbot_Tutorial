@@ -14,7 +14,7 @@ This repository contains three notebooks and one .zip file. zip file contains (C
 3_Chatbot_Building_Model consists of the core elements for bulding chatbot. Fisrt, some processing steps that process the input data. Then, you can find the code for creating emcoder and decoder. 
 
 So, you should follow this steps with order:
-1- Unzip the data file and put it in the current directory.
-2- Run 1_beginner_guide.ipynb if you are not familiar with PyTorch.
-3- Run 2_Chatbot_Data_Processing. It creates the ""formatted_movie_lines.txt".
-4- Run 3_Chatbot_Building_Model in order to build and train the chatbot.
+1. Unzip the data file and put it in the current directory.
+2. Run 1_beginner_guide.ipynb if you are not familiar with PyTorch.
+3. Run 2_Chatbot_Data_Processing. It creates the ""formatted_movie_lines.txt".
+4. Run 3_Chatbot_Building_Model in order to build and train the chatbot.
