@@ -2,7 +2,7 @@
 
 Note: This code has been adapted from https://pytorch.org/tutorials/beginner/chatbot_tutorial.html. We will demonstrate more details and observe the output step by step to have a deeper understanding.
 
-I was watching freeCodeCamp course on buiding chatbots: [https://youtu.be/CNuI8OWsppg](https://youtu.be/CNuI8OWsppg). I wanted to find the 
+I was watching freeCodeCamp course on building chatbots: [https://youtu.be/CNuI8OWsppg](https://youtu.be/CNuI8OWsppg). I wanted to find the 
 notebooks and play with the code myself, but unfortunately, I was not able to find the notebooks. So, I decided to write the notebook myself completely based on the contents of the video. It has been written to be as close as possible to the video.
 
 ### How to run the model
